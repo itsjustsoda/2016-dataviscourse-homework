@@ -7,20 +7,19 @@ In this assignment you will create a simple webpage with some graphical content 
 
 This is one of the datasets from Anscombe's quartett that we discussed in Lecture. You will create multiple representations for this dataset, specifically a bar chart, a line chart, an area chart and a scatterplot, all using vanilla SVG. *You should write the svg manually and not create it using either javascript or drawing software.*
 
-| X | Y |
---- |----
-10.0	| 8.04
-8.0	| 6.95
- 13.0	| 7.58
- 9.0	|8.81
- 11.0	|8.33
- 14.0	|9.96
- 6.0	|7.24
- 4.0	|4.26
- 12.0	|10.84
- 7.0	|4.82
- 5.0	|5.68
- 
+|    X |     Y |
+| ----:| -----:|
+| 10.0 |  8.04 |
+|  8.0 |  6.95 |
+| 13.0 |  7.58 |
+|  9.0 |  8.81 |
+| 11.0 |  8.33 |
+| 14.0 |  9.96 |
+|  6.0 |  7.24 |
+|  4.0 |  4.26 |
+| 12.0 | 10.84 |
+|  7.0 |  4.82 |
+|  5.0 |  5.68 |
 
 ## Design and Implementation
 
